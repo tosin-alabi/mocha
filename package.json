@@ -1,0 +1,12 @@
+{
+    "name": "mocha",
+    "version": "0.0.0",
+    "description": "",
+    "main": "../tests",
+    "scripts": {
+      "test": "mocha"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
